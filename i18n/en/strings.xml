@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name='forgot_return'>Did you forget to return the window?</string>
+	<string name='sample_win_title'>Select An Example</string>
+	<string name="blue_label_text">Blue</string>
+	<string name="green_label_text">Green</string>
+	<string name='color_sample_label'>Color Preview:</string>
+	<string name='hex_sample_label'>Color Code:</string>
+	<string name='color_apply_button'>Apply Color</string>
+	<string name='hex_code_label'>HEX Code:</string>
+	<string name='color_picker_win_title'>Color Picker</string>
+	<string name='sample_button_callback'>Change Color (With CallBack)</string>
+	<string name='sample_button_event'>Change Color (With Event)</string>
+</resources>

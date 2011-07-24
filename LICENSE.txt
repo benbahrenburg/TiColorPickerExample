@@ -1,0 +1,16 @@
+License and Usage
+----------------------------------
+This work by Ben Bahrenburg is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+License available http://creativecommons.org/licenses/by-sa/3.0/
+
+----------------------------------
+Appcelerator legal stuff:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.

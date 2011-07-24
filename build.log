@@ -1,0 +1,74 @@
+Logfile initialized
+[INFO] logfile = /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/1.7.1/android/builder.py simulator TiColorPickerExample /Users/benjamin/androidSDK /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample com.appworkbench.TiColorPickerExample 4 HVGA 
+[INFO] Building TiColorPickerExample for Android ... one moment
+[INFO] Titanium SDK version: 1.7.1 (06/21/11 14:28 1293a6d)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.014881 seconds on emulator to get ready
+[DEBUG] com.appworkbench.TiColorPickerExample installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[INFO] Detected tiapp.xml change, forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/appicon.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/app.js => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/app.jss => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/app.jss
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/colorhelper.js => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/colorhelper.js
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/default_app_logo.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/default_app_logo.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/android_bar1.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/android_bar1.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_blue.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_blue.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_blue_press.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_blue_press.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_green.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_green.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_green_press.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_green_press.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_lightbar.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_lightbar.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_orangebar.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_orangebar.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_red.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_red.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/Images/slider_red_press.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/Images/slider_red_press.png
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/main.js => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/main.js
+[TRACE] COPYING CREATED FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/picker.js => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/picker.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-hdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-land-hdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-ldpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-land-ldpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-hdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-port-hdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-ldpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-port-ldpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-hdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-hdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-ldpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-ldpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-mdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-mdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-hdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-hdpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-ldpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-ldpi/default_d44e27d97b.png
+[TRACE] COPYING FILE: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-mdpi/default.png => /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-mdpi/default_d44e27d97b.png
+[DEBUG] copying app icon: /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/default_app_logo.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/R.java to javac build list
+[DEBUG] adding /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleActivity.java to javac build list
+[DEBUG] adding /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleAppInfo.java to javac build list
+[DEBUG] adding /Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleApplication.java to javac build list
+[DEBUG] Building Java Sources: "/Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/R.java" "/Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleActivity.java" "/Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleAppInfo.java" "/Users/benjamin/Projects/Ti/Demos/TiColorPickerExample/build/android/gen/com/appworkbench/TiColorPickerExample/TicolorpickerexampleApplication.java"
+[INFO] Waiting for SDCard to become available..
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
