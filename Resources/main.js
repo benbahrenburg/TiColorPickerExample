@@ -1,3 +1,8 @@
+/*jslint maxerr:1000 */
+if(typeof('demo')==='undefined'){
+	var demo={};	
+}
+
 demo.launchMainWindow=function(winConfig){
 	//Use the helper function to build a window
 	//This the easiest way to apply defaults

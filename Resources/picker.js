@@ -1,3 +1,7 @@
+/*jslint maxerr:1000 */
+if(typeof('demo')==='undefined'){
+	var demo={};	
+}
 demo.launchPickerWindow=function(winConfig,colorHelper,callback){
 	//We use our helper functions to create the window
 	var win = demo.myHelpers.makeWindow(winConfig);
